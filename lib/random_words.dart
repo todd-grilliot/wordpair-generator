@@ -32,6 +32,7 @@ class _RandomWordsState extends State<RandomWords> {
     );
   }
 
+  @override
   Widget build(BuildContext context) {
     Widget _buildList() {
       return ListView.builder(

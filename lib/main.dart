@@ -1,7 +1,7 @@
 // import 'dart:developer';
 // import 'package:english_words/english_words.dart';
 import 'package:flutter/material.dart';
-import './random_words.dart';
+import './random_words.dart' show RandomWords;
 
 void main() => runApp(MyApp());
 
